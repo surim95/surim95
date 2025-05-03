@@ -14,7 +14,7 @@
 * Figma
 * Canva
 
-### | 그 외|
+### | 그 외 |
 * Python
 * SQL
 * AWS
